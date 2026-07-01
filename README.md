@@ -1,5 +1,5 @@
 # 🔫 bazouka
-**BLE Security Research Tool** — v1.0 Beta
+**BLE Security Research Tool** v1.5 stable
 
 A personal project for exploring Bluetooth Low Energy behavior. Built for testing BLE devices in controlled environments — my own gear, my own lab.
 
